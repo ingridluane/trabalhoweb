@@ -1,0 +1,180 @@
+
+
+
+body {
+    font-family: "Cinzel", serif;;
+    background-color: #7f87c3;
+    color: #ffffff;
+    margin: 10 auto;
+    padding: 10 auto ;
+    text-align: justify;
+}
+
+
+#topo-blog {
+    background-color: #2b2675;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid #f4f4f4;
+}
+
+#topo-blog img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border: 3px double #d8d5d5;
+}
+
+#topo-blog h1 {
+    margin: 10px 0;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+#topo-blog h2 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+
+#informacoes {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: #8a8eff;
+}
+
+#informacoes img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid #333;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+#informacoes ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#informacoes ul li {
+    margin: 10px 0;
+}
+
+#informacoes a {
+    color:rgb(248, 248, 255);
+    text-decoration: double;
+}
+
+#informacoes a:hover {
+    text-decoration: underline;
+}
+
+/* Estiliza os posts do blog */
+.post {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    background-color:darkblue;
+}
+
+.post h2 {
+    color: #f8f8f8;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.post p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.post a {
+    color:#ddd;
+    text-decoration: none;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+
+.post img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+img[src*="eune"] {
+    border: 2px double #fafafa; 
+    border-radius: 40px; 
+    width: 180px; 
+    height:auto}
+    img[src*="maxresdefault"] {
+        border: 2px double #faf8f7; 
+        border-radius: 15px; 
+        width: 400px;
+        height: auto; }
+        img[src*="post1"] {
+            width: 400px;
+            height: auto;
+            border-radius: 30%;
+            border: 3px double #d8d5d5;  
+                          }
+            img[src*="jorge"] {
+                border: 2px double #faf8f7; 
+                border-radius: 15px;
+                width: 400px;
+                height: auto; }
+                img[src*="4m"] {
+                    border: 2px double #faf8f7;
+                    border-radius: 15px; 
+                    width: 500px; 
+                    height: auto; }
+                    img[src*="euehari"] {
+                        border: 2px double #faf8f7;
+                        border-radius: 15px; 
+                        width: 100px; 
+                        height: auto; }
+                            
+  #p1{
+    border: #2b2675 double;
+    margin: 180px;
+    text-align: center;
+    border-radius: 15px;
+    padding: 0%;
+  }              
+  #center{
+    text-align: center;
+  }              
+  #centero{
+    text-align: center;
+  }
+ 
+
+  
+  #oi{
+    border: #2b2675 double;
+    margin: 180px;
+   
+    border-radius: 15px;
+    padding: 0%;}
+                    
+#sb{
+    background-color: #6b81ff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10%;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    width: 20%;
+    text-align: center;
+}     
+#kk{
+    text-align: center;
+}               
